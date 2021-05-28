@@ -1,0 +1,8 @@
+{
+    "database": "data_db",
+  
+    "batch_size": 50,
+  
+    "timestamp_column": "load_at"
+}
+  
